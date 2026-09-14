@@ -6,18 +6,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 
 #dev in develoment
-svg xmlns="http://www.w3.org/2000/svg" height="400" width="400">
-  <defs/>
-  <defs>
-    <path id="a" d="M6 10h139v93H6z"/>
-  </defs>
-  <rect ry="0" y="0" x="0" height="400" width="400" fill="#ffe70b" stroke="#000"/>
-  <text y="170" x="29" style="line-height:1.25;-inkscape-font-specification:'Source Sans Pro Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal" font-weight="600" font-size="200" font-family="Source Sans Pro">
-    <tspan y="170" x="29">SQL</tspan>
-  </text>
-  <text style="line-height:1.25;-inkscape-font-specification:'Source Sans Pro Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal" x="109" y="359" font-weight="600" font-size="200" font-family="Source Sans Pro">
-    <tspan x="109" y="359">.JS</tspan>
-  </text>
-</svg>
-
-          
+<img scr "https://cdn-icons-png.flaticon.com/512/9543/9543826.png"/>

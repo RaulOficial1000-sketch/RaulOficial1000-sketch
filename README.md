@@ -1,5 +1,5 @@
-
-<defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Raul Teixeira, desenvolvedor iniciante, Python e Eletrônica" xmlns:c2pa="http://c2pa.org/manifest"><metadata>
+  <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#0B6B50"/>
       <stop offset="1" stop-color="#B8651F"/>
@@ -17,7 +17,10 @@
 </svg>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B6B50,100:B8651F&text=Raul%20Teixeira&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Desenvolvedor%20iniciante%20%7C%20Python%20%26%20Eletr%C3%B4nica&descSize=18&descAlignY=60" alt="Banner do perfil de Raul Teixeira" />
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/RaulOficial1000-sketch/RaulOficial1000-sketch/main/banner.svg" alt="Banner do perfil de Raul Teixeira" />
 
 <a href="https://github.com/RaulOficial1000-sketch">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=3FD19B&center=true&vCenter=true&width=560&lines=Ol%C3%A1!+Sou+o+Raul+%F0%9F%91%8B;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;Python+%7C+Arduino+%7C+Rob%C3%B3tica;Em+busca+da+primeira+oportunidade+em+tecnologia" alt="Frases digitadas: Olá, sou o Raul; Engenharia da Computação; Python, Arduino, Robótica" />
@@ -95,6 +98,9 @@ Jovem em busca da primeira oportunidade profissional, com vontade de aprender, c
 <div align="center">
 
 <a href="mailto:raulteixeira.profissonal1000@gmail.com"><img src="https://img.shields.io/badge/E--mail-0B6B50?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" /></a>
+
+📧 **raulteixeira.profissonal1000@gmail.com**
+
 <!-- EDITE AQUI: troque SEU-USUARIO e apague as marcas de comentário para ativar -->
 <!-- <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
 <!-- EDITE AQUI: depois de publicar o portfólio, coloque o endereço dele e ative -->
@@ -102,6 +108,5 @@ Jovem em busca da primeira oportunidade profissional, com vontade de aprender, c
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:B8651F,100:0B6B50&section=footer" alt="" />
 
 </div>

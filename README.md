@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Engenharia%20da%20Computa%C3%A7%C3%A3o-ENIAC-B8651F?style=for-the-badge" alt="Engenharia da Computação, ENIAC" />
 <img src="https://img.shields.io/badge/SENAI-Eletroeletr%C3%B4nica%20(2027)-0B6B50?style=for-the-badge" alt="SENAI Eletroeletrônica até 2027" />
 
-</div>
+</div >
 
 ---
 
@@ -64,7 +64,7 @@ Jovem em busca da primeira oportunidade profissional, com vontade de aprender, c
 <img src="https://img.shields.io/badge/CorelDRAW-27A844?style=flat-square&logo=coreldraw&logoColor=white" alt="CorelDRAW" />
 
 </div>
-
+<div align=center">
 ---
 
 ## 🎓 Certificações em destaque
@@ -81,7 +81,7 @@ Jovem em busca da primeira oportunidade profissional, com vontade de aprender, c
 | Ética na Inteligência Artificial | SENAI-SP | 4 h |
 
 ---
-
+</div>
 ## 📈 Estatísticas do GitHub
 
 <div align="center">

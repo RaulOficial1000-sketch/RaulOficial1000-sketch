@@ -32,25 +32,28 @@
 <img src="https://img.shields.io/badge/Engenharia%20da%20Computa%C3%A7%C3%A3o-ENIAC-B8651F?style=for-the-badge" alt="Engenharia da Computação, ENIAC" />
 <img src="https://img.shields.io/badge/SENAI-Eletroeletr%C3%B4nica%20(2027)-0B6B50?style=for-the-badge" alt="SENAI Eletroeletrônica até 2027" />
 
-</div >
+<hr/>
 
----
+<h2>👨‍💻 Sobre mim</h2>
 
-## 👨‍💻 Sobre mim
+<p>
+Jovem em busca da primeira oportunidade profissional,<br/>
+com vontade de aprender, comunicar bem e propor soluções criativas.<br/>
+Curso <b>Engenharia da Computação</b> (ENIAC) e <b>Eletroeletrônica</b> (SENAI),<br/>
+e tenho interesse em tecnologia, empreendedorismo e economia.
+</p>
 
-Jovem em busca da primeira oportunidade profissional, com vontade de aprender, comunicar bem e propor soluções criativas. Curso **Engenharia da Computação** (ENIAC) e **Eletroeletrônica** (SENAI), e tenho interesse em tecnologia, empreendedorismo e economia.
+<p>
+🐍 Estudando e praticando <b>Python</b> (curso de 60 h no SENAI)<br/>
+🤖 Aprendendo <b>Arduino e robótica</b> com sensores de luz, som e toque<br/>
+📊 Usando <b>Excel e Power BI</b> para organizar e visualizar dados<br/>
+🔐 Me aprofundando em <b>segurança cibernética</b> e <b>ética em IA</b><br/>
+🌎 Inglês intermediário (Fisk), espanhol e mandarim básicos
+</p>
 
-- 🐍 Estudando e praticando **Python** (curso de 60 h no SENAI)
-- 🤖 Aprendendo **Arduino e robótica** com sensores de luz, som e toque
-- 📊 Usando **Excel e Power BI** para organizar e visualizar dados
-- 🔐 Me aprofundando em **segurança cibernética** e **ética em IA**
-- 🌎 Inglês intermediário (Fisk), espanhol e mandarim básicos
+<hr/>
 
----
-
-## 🛠️ Tecnologias e ferramentas
-
-<div align="center">
+<h2>🛠️ Tecnologias e ferramentas</h2>
 
 <img src="https://skillicons.dev/icons?i=python,arduino,html,css,js,git,github,vscode,photoshop&theme=dark" alt="Python, Arduino, HTML, CSS, JavaScript, Git, GitHub, VS Code e Photoshop" />
 
@@ -63,14 +66,12 @@ Jovem em busca da primeira oportunidade profissional, com vontade de aprender, c
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
 <img src="https://img.shields.io/badge/CorelDRAW-27A844?style=flat-square&logo=coreldraw&logoColor=white" alt="CorelDRAW" />
 
-</div>
-<div align=center">
----
+<hr/>
 
-## 🎓 Certificações em destaque
+<h2>🎓 Certificações em destaque</h2>
 
 | Curso | Instituição | Carga |
-|---|---|---|
+|:---:|:---:|:---:|
 | Programação em Python | SENAI-SP | 60 h |
 | Fundamentos da Eletroeletrônica (Tinkercad) | Autodesk ATC / SENAI-SP | 120 h |
 | Fundamentos de Instalações Eletroeletrônicas (AutoCAD 2024) | Autodesk ATC / SENAI-SP | 120 h |
@@ -80,33 +81,19 @@ Jovem em busca da primeira oportunidade profissional, com vontade de aprender, c
 | Por Dentro da Segurança Cibernética | SENAI-SP | 4 h |
 | Ética na Inteligência Artificial | SENAI-SP | 4 h |
 
----
-</div>
-## 📈 Estatísticas do GitHub
+<hr/>
 
-<div align="center">
+<h2>📈 Estatísticas do GitHub</h2>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=RaulOficial1000-sketch&show_icons=true&hide_border=true&bg_color=0A1411&title_color=3FD19B&icon_color=E39A55&text_color=E6EFE9" alt="Estatísticas do GitHub" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulOficial1000-sketch&layout=compact&hide_border=true&bg_color=0A1411&title_color=3FD19B&text_color=E6EFE9" alt="Linguagens mais usadas" />
 
-</div>
+<hr/>
 
----
-
-## 📫 Vamos conversar?
-
-<div align="center">
+<h2>📫 Vamos conversar?</h2>
 
 <a href="mailto:raulteixeira.profissonal1000@gmail.com"><img src="https://img.shields.io/badge/E--mail-0B6B50?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" /></a>
 
-📧 **raulteixeira.profissonal1000@gmail.com**
-
-<!-- EDITE AQUI: troque SEU-USUARIO e apague as marcas de comentário para ativar -->
-<!-- <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
-<!-- EDITE AQUI: depois de publicar o portfólio, coloque o endereço dele e ative -->
-<!-- <a href="https://SEU-PORTFOLIO"><img src="https://img.shields.io/badge/Portf%C3%B3lio-B8651F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a> -->
-
-<br/><br/>
-
+<p>📧 <b>raulteixeira.profissonal1000@gmail.com</b></p>
 
 </div>

@@ -1,26 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Raul Teixeira, desenvolvedor iniciante, Python e Eletrônica" xmlns:c2pa="http://c2pa.org/manifest"><metadata>
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#0B6B50"/>
-      <stop offset="1" stop-color="#B8651F"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="220" rx="14" fill="url(#g)"/>
-  <g fill="none" stroke="#ffffff" stroke-opacity=".22" stroke-width="2">
-    <path d="M700 40H860L890 70H1040L1070 40H1200M760 120H900L930 150H1060M640 190H780L810 170H980L1010 190H1200"/>
-  </g>
-  <g fill="#ffffff" fill-opacity=".35">
-    <circle cx="860" cy="40" r="5"/><circle cx="1040" cy="70" r="5"/><circle cx="900" cy="120" r="5"/><circle cx="1060" cy="150" r="5"/><circle cx="810" cy="170" r="5"/>
-  </g>
-  <br> 
-</svg>
 <div align="center">
-  <text x="60" y="105" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" align="center" >Raul Teixeira</text>
-  <text x="62" y="150" fill="#ffffff" fill-opacity=".92" align="center" font-family="Consolas, Menlo, monospace" font-size="24">Desenvolvedor iniciante | Python &amp; Eletrônica</text>
-
-
-
-
 
 <img width="100%" src="https://raw.githubusercontent.com/RaulOficial1000-sketch/RaulOficial1000-sketch/main/banner.svg" alt="Banner do perfil de Raul Teixeira" />
 
@@ -97,5 +75,10 @@ e tenho interesse em tecnologia, empreendedorismo e economia.
 <a href="mailto:raulteixeira.profissonal1000@gmail.com"><img src="https://img.shields.io/badge/E--mail-0B6B50?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" /></a>
 
 <p>📧 <b>raulteixeira.profissonal1000@gmail.com</b></p>
+
+<!-- EDITE AQUI: troque SEU-USUARIO e apague as marcas de comentário para ativar -->
+<!-- <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
+<!-- EDITE AQUI: depois de publicar o portfólio, coloque o endereço dele e ative -->
+<!-- <a href="https://SEU-PORTFOLIO"><img src="https://img.shields.io/badge/Portf%C3%B3lio-B8651F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a> -->
 
 </div>

@@ -12,13 +12,15 @@
   <g fill="#ffffff" fill-opacity=".35">
     <circle cx="860" cy="40" r="5"/><circle cx="1040" cy="70" r="5"/><circle cx="900" cy="120" r="5"/><circle cx="1060" cy="150" r="5"/><circle cx="810" cy="170" r="5"/>
   </g>
+ 
+  <div align="center">
   <text x="60" y="105" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" align="center" >Raul Teixeira</text>
   <text x="62" y="150" fill="#ffffff" fill-opacity=".92" align="center" font-family="Consolas, Menlo, monospace" font-size="24">Desenvolvedor iniciante | Python &amp; Eletrônica</text>
 </svg>
 
 
 
-<div align="center">
+
 
 <img width="100%" src="https://raw.githubusercontent.com/RaulOficial1000-sketch/RaulOficial1000-sketch/main/banner.svg" alt="Banner do perfil de Raul Teixeira" />
 
